@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: telegram-ban-bot
+
+bot:
+  token: ""
+
+ban:
+  forwarded:
+    channel-ids: "-1001300317002, -1001318417714"
